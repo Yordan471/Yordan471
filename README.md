@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yordan471;
-- 👀 I’m interested in programming in general;
+- 👀 I’m interested in programming in general, reading books, video games, outside activities;
 - 🌱 I’m currently learning C#, VB;
 - 💞️ I’m looking to collaborate on everything that can help me learn;
 - 📫 How to reach me : email - jordan4.71@abv.bg;
